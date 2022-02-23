@@ -48,5 +48,5 @@ GDD Template from
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for
 details
